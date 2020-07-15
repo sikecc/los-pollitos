@@ -1,0 +1,44 @@
+{
+  "name": "mern-auth",
+  "version": "1.0.0",
+  "description": "Mern Auth Example",
+  "main": "server.js",
+  "scripts": {
+    "client-install": "npm install --prefix client",
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "client": "npm start --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@material-ui/core": "^4.9.9",
+    "@material-ui/icons": "^4.9.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "concurrently": "^4.0.1",
+    "cors": "^2.8.5",
+    "date-fns": "^2.11.1",
+    "express": "^4.16.4",
+    "is-empty": "^1.2.0",
+    "jsonwebtoken": "^8.3.0",
+    "material-table": "^1.57.2",
+    "mongoose": "^5.3.11",
+    "morgan": "^1.10.0",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0",
+    "react-geocode": "^0.2.1",
+    "react-geolocated": "^3.0.1",
+    "react-google-login": "^5.1.10",
+    "react-table-v6": "^6.8.6",
+    "react-textfield": "0.0.6",
+    "rtm-js": "^1.0.2",
+    "styled-components": "^5.0.1",
+    "validator": "^10.9.0"
+  },
+  "devDependencies": {
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.2"
+  }
+}
