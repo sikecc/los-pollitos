@@ -1,6 +1,4 @@
 # Los Pollitos Final Project
-![Node.js CI](https://github.com/ckanich-classrooms/final-project-los-pollitos/workflows/Node.js%20CI/badge.svg?branch=reactTodo)
-![Docker Image CI](https://github.com/ckanich-classrooms/final-project-los-pollitos/workflows/Docker%20Image%20CI/badge.svg)
 
 ## Description
 
