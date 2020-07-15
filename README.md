@@ -1,5 +1,5 @@
 # Los Pollitos Final Project
-
+![Node.js CI](https://github.com/sikecc/los-pollitos/workflows/Node.js%20CI/badge.svg?branch=master)
 ## Description
 
 TODO app allows you to better manage your time by allowing you to lay out what you need to accomplish and then coordinate your time from there. A TODO App lets a user create, read, update, and/or delete to-do tasks. Essentially, the task will have a title describing the goal of the task. Once the task is done, it can be marked as completed and/or deleted. For users to use our application, they need to create an account. Once logged in, users will be able to create tasks in our web application UI or view tasks created from different services (such as Google Task or Outlook Task) by using the appropriate API. In our application they will be able to add a timeframe to complete the tasks. 
