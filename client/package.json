@@ -7,7 +7,7 @@
     "@material-ui/icons": "^4.9.1",
     "@testing-library/react": "^10.0.2",
     "ajax": "0.0.4",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "classnames": "^2.2.6",
     "google-maps-react": "^2.0.6",
     "js-string-escape": "^1.0.1",
