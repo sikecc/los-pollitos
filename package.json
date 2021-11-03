@@ -35,7 +35,7 @@
     "react-textfield": "0.0.6",
     "rtm-js": "^1.0.2",
     "styled-components": "^5.0.1",
-    "validator": "^10.9.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "enzyme": "^3.11.0",
