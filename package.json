@@ -20,7 +20,7 @@
     "concurrently": "^4.0.1",
     "cors": "^2.8.5",
     "date-fns": "^2.11.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "is-empty": "^1.2.0",
     "jsonwebtoken": "^8.3.0",
     "material-table": "^1.57.2",
